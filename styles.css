@@ -1,0 +1,33 @@
+body{
+    color: #8A8D8F;
+    background-color: #000000;
+}
+img{
+    width: 380px;
+    height: 460px;
+}
+h1{ 
+    color: #F58426;
+}
+h2{
+    color: #006BB6;
+    font-family: 'Nunito', sans-serif;
+}
+h3{
+    color: #F58426;
+    font-family: 'Chakra Petch', sans-serif;
+}
+h4{
+    color: #006BB6;
+    font-family: 'Noto Serif', serif;
+}
+h5{
+    color: #F58426;
+    font-family: 'IBM Plex Mono', monospace;
+}
+p{
+    font-family: 'Lato', sans-serif;
+}
+a{
+    color: #8A8D8F;
+}
